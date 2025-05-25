@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="relative h-screen w-screen overflow-hidden">
       <video
-        src="/src/assets/bg.mp4"
+        src="/src/assets/vdobg.mp4"
         autoPlay="{true}"
         loop
         muted
